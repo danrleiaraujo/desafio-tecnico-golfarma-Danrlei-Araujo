@@ -4,13 +4,13 @@ Esta é uma API RESTful simples para gerenciamento de pedidos, construída com o
 <details open="open">
 <summary>Sumário</summary>
 
-- [Funcionalidades] (#Funcionalidades)
-- [Pré-requisitos] (#Pré-requisitos)
-- [Instalação e Configuração] (#Instalação-e-Configuração)
-- [Executando a Aplicação] (#Executando-a-Aplicação)
-- [Executando os Testes] (#Executando-os-Testes)
-- [Documentação da API] (#Documentação-da-API)
-- [Resumo das Rotas] (#Resumo-das-Rotas)
+- [Funcionalidades] (##Funcionalidades)
+- [Pré-requisitos] (##Pré-requisitos)
+- [Instalação e Configuração] (##Instalação-e-Configuração)
+- [Executando a Aplicação] (##Executando-a-Aplicação)
+- [Executando os Testes] (##Executando-os-Testes)
+- [Documentação da API] (##Documentação-da-API)
+- [Resumo das Rotas] (##Resumo-das-Rotas)
 </details>
 
 ## Funcionalidades
