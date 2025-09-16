@@ -36,6 +36,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento.
     ```bash
     git clone https://github.com/danrleiaraujo/DesafioTecnico.git
     cd desafio-tecnico
+    composer install
     ```
 2.  **Copie o arquivo de ambiente:**
     O Laravel Sail utiliza as configurações do arquivo `.env` para configurar os containers.
