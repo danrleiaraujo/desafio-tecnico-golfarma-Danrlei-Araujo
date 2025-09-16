@@ -1,4 +1,4 @@
-# Desafio Técnico - API de Pedidos Golfarma Danrlei Araujo
+# Desafio Técnico - API de Pedidos Golfarma -  Danrlei Araujo
 Esta é uma API RESTful simples para gerenciamento de pedidos, construída com o framework Laravel. O projeto inclui funcionalidades de CRUD (Create, Read, Update, Delete) para pedidos utilizando Laravel Sail para um ambiente de desenvolvimento local baseado em Docker e a autenticação de usuários é feita com Laravel Sanctum.
 
 <details open="open">
