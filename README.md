@@ -21,8 +21,8 @@ Esta é uma API RESTful simples para gerenciamento de pedidos, construída com o
 
 ## Pré-requisitos
 -   Git
--   Ide de sua preferencia (Ex. VSCode)
--   PHP = 8.3.6
+-   IDE sde sua preferencia (Ex. VSCode)
+-   PHP >= 8.3.6
 -   Composer 
 -   Laravel Framework = 12.28.1
 -   Docker 
